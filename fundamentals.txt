@@ -1,4 +1,5 @@
-Job Descriptions for Team Members in a DevOps Project
+## Job Descriptions for Team Members in a DevOps Project
+
 1. Developers
 Responsibilities:
 •	Coding & Implementation: Write, review, and refactor code to develop new features, fix bugs, and improve performance.
